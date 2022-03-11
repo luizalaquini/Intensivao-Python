@@ -10,7 +10,7 @@ Material e arquivos do meu andamento no Intensivão de Python oferecido pela HAS
 
 🎲 Dia 2: Análise de Dados
 
-📶 Dia 3: Automação Web
+📶 Dia 3: Automação Web (Web Scraping)
 
 📚 Dia 4: Projeto Completo de Machine Learning + Data Science
 
