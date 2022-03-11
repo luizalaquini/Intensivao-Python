@@ -16,8 +16,12 @@ Material e arquivos do meu andamento no Intensivão de Python oferecido pela HAS
 
 ## Tecnologias Utilizadas
 - Python
-- Jupyter
+- Bibliotecas externas como pyautogui, pyperclip, pandas, selenium, entre outros
+- Chromedriver (para o Selenium)
 
-## Autores
-- Hashtag Programação
-- Luiza Batista Laquini
+## Autor
+Luiza Batista Laquini (com as instruções do professor Lira da Hashtag Programação)
+
+LinkedIn: https://www.linkedin.com/in/luizalaquini/
+
+Email: luizablaquini@hotmail.com
